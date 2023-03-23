@@ -9,7 +9,7 @@ body {
 #body-header {
     height: 65vh;
     opacity: 0.8;
-    background-image: url(./img.jpg);
+    background-image: url(./imgb.jpg);
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
@@ -206,20 +206,7 @@ section
     background-color:#E75480;
     width:50%;
 }
-.Nodejs
-{
-    height:100%;
-    color:black;
-    background-color:red;
-    width:60%;
-}
-.Mongodb
-{
-    height:100%;
-    color:black;
-    background-color:#9400D3;
-    width:70%;
-}
+
 #portfolio
 {
     width:auto;
@@ -390,7 +377,7 @@ button
     top: 8%;
     left: 50%;
     border: 2px dashed #0096fa6b;
-    height: 75%;
+    height: 70%;
     color: #433E3F;
 }
 
