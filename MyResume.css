@@ -231,7 +231,7 @@ section
 {
     display:flex;
     flex-wrap:wrap;
-    flex-drection:row;
+    flex-direction:row;
     justify-content:space-around;  
     overflow-wrap:break-word; 
 }
@@ -240,6 +240,8 @@ section
     width:15rem;
     height:15rem;
     display:block;
+    padding:10px;
+    border-radius:10px;
 }
 #project:hover
 {
