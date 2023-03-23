@@ -377,7 +377,7 @@ button
     top: 8%;
     left: 50%;
     border: 2px dashed #0096fa6b;
-    height: 70%;
+    height: 68%;
     color: #433E3F;
 }
 
@@ -410,11 +410,11 @@ button
 
 .timeline-box:nth-child(2n+1)::after {
     right: -17.6%;
-    top:27%;
+    top:24.25%;
 }
 
 .timeline-box:nth-child(2n)::after {
-    top:27%;
+    top:28%;
     left: -9%;
     background-color: darkorange;
 }
